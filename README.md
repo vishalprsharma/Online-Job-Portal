@@ -222,17 +222,6 @@ Contributions are welcome! Please open an issue first to discuss what you would 
 4. Push to the branch (`git push origin feature/NewFeature`)
 5. Open a Pull Request
 
----
-
-## 🏆 Author
-**Mahmud Alam**  
-- 🌍 Portfolio: [Mahmud Alam](https://mahmudalam.com/)  
-- 📧 Email: mahmudalam.official@gmail.com  
-- 🔗 **GitHub:** [GitHub](https://github.com/Mahmud-Alam)  
-- 🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mahmudalamofficial/)  
-
----
-
 ## 🎉 Acknowledgments
 - Inspired by Job Portal platforms.
 - Thanks to the **Java Spring Boot Community** for extensive documentation and support.
